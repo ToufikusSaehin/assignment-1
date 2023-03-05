@@ -16,6 +16,7 @@ body {
 
 .flexible-container {
     display: flex;
+    padding-left: 3%;
 }
 
 h1 {
@@ -74,4 +75,8 @@ h2 {
     margin: 1%;
     padding: 2%;
     border-radius: 10px;
+}
+
+.width {
+    width: 25%;
 }
