@@ -80,3 +80,19 @@ h2 {
 .width {
     width: 25%;
 }
+
+#back-image {
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.radius {
+    padding: 5%;
+    border-radius: 30px;
+}
+
+.align {
+    text-align: left;
+    text-overflow: ellipsis;
+}
